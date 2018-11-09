@@ -1,4 +1,4 @@
-node
+Node.js
 ==============
 
 This is node.
